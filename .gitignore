@@ -1,0 +1,23 @@
+# Arquivos de ambiente com credenciais sensíveis
+.env
+
+# Diretórios e arquivos comuns de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+
+# Ambientes virtuais
+venv/
+env/
+*.egg-info/
+.mypy_cache/
+.coverage
+
+# Logs e dados temporários
+*.log
+*.sqlite3
+*.db
+
+# Arquivos de saída do script
+*.csv

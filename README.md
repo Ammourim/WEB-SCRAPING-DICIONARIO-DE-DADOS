@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-Este projeto consiste em um script Python para realizar web scraping em uma extranet específica (Pixeon) e extrair o dicionário de dados de tabelas e colunas de um sistema, que é baseado em MaxDB. O objetivo é automatizar a coleta de metadados de banco de dados que estão disponíveis apenas via interface web, facilitando a documentação e análise.
+Este projeto consiste em um script Python para realizar web scraping em uma extranet específica e extrair o dicionário de dados de tabelas e colunas de um sistema, que é baseado em MaxDB. O objetivo é automatizar a coleta de metadados de banco de dados que estão disponíveis apenas via interface web, facilitando a documentação e análise.
 
 ## Funcionalidades
 

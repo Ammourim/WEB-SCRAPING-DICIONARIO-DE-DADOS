@@ -21,3 +21,4 @@ env/
 
 # Arquivos de saída do script
 *.csv
+*.xlsx

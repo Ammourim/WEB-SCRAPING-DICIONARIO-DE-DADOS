@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
+from urllib3.exceptions import InsecureRequestWarning
 import warnings
 import os # Importado para acessar variáveis de ambiente
 from dotenv import load_dotenv # Importado para carregar variáveis do .env

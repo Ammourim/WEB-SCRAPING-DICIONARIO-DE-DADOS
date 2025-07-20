@@ -53,4 +53,4 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou relatar proble
 
 **Alan Amorim Porto**
 
-* [Link para seu GitHub] (Se você tiver outros repositórios)
+* https://github.com/Ammourim
